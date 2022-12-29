@@ -125,3 +125,9 @@ res.send('Born-Beauty');
 app.listen(port, () => {
 console.log('Running Born-Beauty on port',port)
 })
+
+
+
+
+// DB_USER=bornBeauty
+// DB_PASS=mBsjtsvbIWlCtbQK
